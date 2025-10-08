@@ -1,0 +1,39 @@
+# 🧠 DATABASE FILES
+db.sqlite3
+
+# 🖼️ MEDIA FILES (user uploads, etc.)
+media/
+
+# 🔥 PYTHON CACHE + BYTECODE
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧩 VIRTUAL ENVIRONMENT
+.venv/
+venv/
+
+# ⚙️ PYTORCH YOLO WEIGHTS / CHECKPOINTS
+pytorch_YOLOv4/cnn_weights/
+pytorch_YOLOv4/Own_cfg_and_weights/
+
+# 🎥 VIDEO OUTPUT FILES
+*.avi
+*.mp4
+*.mov
+*.gif
+
+# 🧾 LOGS
+*.log
+
+# 🧰 SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# 🧱 TEMP / BUILD
+*.bak
+*.tmp
+dist/
+build/

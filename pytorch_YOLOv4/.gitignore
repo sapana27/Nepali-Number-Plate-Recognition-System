@@ -1,0 +1,21 @@
+# Database and media
+db.sqlite3
+media/
+
+# Virtual environment
+.venv/
+venv/
+
+# Caches
+__pycache__/
+*/__pycache__/
+*.pyc
+
+# YOLO weights
+pytorch_YOLOv4/cnn_weights/
+pytorch_YOLOv4/Own_cfg_and_weights/
+
+# Logs, temp, system
+*.log
+.DS_Store
+Thumbs.db
