@@ -9,7 +9,7 @@ YOLOV4 Link: [YOLOV4](https://github.com/AlexeyAB/darknet)
 This is simply integrating the models and then testing the models trained by us for user inputs. 
 
 ____
-## Setup in your PC 
+<!-- ## Setup in your PC 
 
 To run this app correctly first you have to install all the requirements from requirements.txt.  
 Also better use python 3.8.5 as I used the same version  
@@ -40,14 +40,14 @@ annpr(root diretory):
 or simply download the media folder from here:
 <!-- media folder: [Media Folder](https://drive.google.com/drive/folders/1LzcASbA5DW8-vVd7g-R2D-Eun3sPSdVe?usp=sharing) -->
 
-### Your folders should look like this 
+<!-- ### Your folders should look like this 
 ![Folder Structure](folder_structure.png)
 
 ## To run webapp run command 
 ```
 python manage.py runserver
 ```
-<hr>
+<hr> -->
 
 ## Home Page UI
 
